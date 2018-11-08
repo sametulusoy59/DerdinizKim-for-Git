@@ -69,3 +69,17 @@ c:\users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimCo
 c:\users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\obj\Debug\DerdinizKimComWeb.csproj.CopyComplete
 c:\users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\obj\Debug\DerdinizKimComWeb.dll
 c:\users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\obj\Debug\DerdinizKimComWeb.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.BusinessLayer.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.Entities.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\EntityFramework.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.DataAccessLayer.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.BusinessLayer.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.BusinessLayer.dll.config
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.Entities.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\EntityFramework.xml
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.DataAccessLayer.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\DerdinizKimComWeb.DataAccessLayer.dll.config
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\FakeData.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb\bin\FakeData.pdb

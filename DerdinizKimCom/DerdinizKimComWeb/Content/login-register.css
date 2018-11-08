@@ -1,0 +1,83 @@
+﻿body {
+    background: linear-gradient(132deg, #f44336, #E91E63, #9C27B0, #673AB7, #3F51B5, #2196F3,#03A9F4, #00BCD4, #009688, #4CAF50, #FFC107, #FF9800, #f44336, #E91E63, #9C27B0, #673AB7, #3F51B5, #2196F3,#03A9F4, #00BCD4, #009688, #4CAF50, #FFC107, #FF9800);
+    background-size: 400% 400%;
+    animation: BackgroundGradient 30s ease infinite;
+    padding-top: 70px;
+}
+
+@keyframes BackgroundGradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.baslik {
+    color: #fff;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.arkalogin {
+    background-color: rgba(0,0,0,0.5) !important;
+    border: none;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 20px 40px;
+    color: #ccc;
+    text-shadow: none;
+}
+
+
+
+.loginbaslik {
+    color: #888888;
+    text-align: center;
+    font-size: 19px;
+    margin-top: 15px;
+}
+
+.giris {
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    background: #E5E5E5;
+    outline: none;
+    padding: 0 10px;
+}
+
+.butonlogin {
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+    font-weight: bold;
+    background: #2196F3;
+    border: none;
+    color: #fff;
+    transition: all 250ms;
+}
+
+    .butonlogin:hover {
+        background: #1E88E5;
+    }
+.input-group {
+    margin: 20px 0px;
+}
+
+.input-group-addon {
+    color: #009edf;
+    font-size: 17px;
+}
+
+
+body {
+    margin: 0;
+}

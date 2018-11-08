@@ -1,0 +1,6 @@
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb.Entities\bin\Debug\DerdinizKimComWeb.Entities.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb.Entities\bin\Debug\DerdinizKimComWeb.Entities.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb.Entities\obj\Debug\DerdinizKimComWeb.Entities.csprojAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb.Entities\obj\Debug\DerdinizKimComWeb.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb.Entities\obj\Debug\DerdinizKimComWeb.Entities.dll
+C:\Users\asus\documents\visual studio 2017\Projects\DerdinizKimCom\DerdinizKimComWeb.Entities\obj\Debug\DerdinizKimComWeb.Entities.pdb
